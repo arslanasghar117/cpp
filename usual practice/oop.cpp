@@ -28,7 +28,7 @@ class x{
     }
 };
 int main(){
-    x x1,x2(5),x3("kela kha"),x4(150,"hihihihi"),x5("hahahah",250);
+    x x1,x2(5),x3("kia khao gy"),x4(150,"hihihihi"),x5("hahahah",250);
     x1.show();
     x2.show();
     x3.show();
